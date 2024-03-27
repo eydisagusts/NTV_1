@@ -63,9 +63,9 @@
     },
     {
       "name": "frontend_server_client",
-      "rootUri": "file:///Users/eydisagusts/.pub-cache/hosted/pub.dev/frontend_server_client-3.2.0",
+      "rootUri": "file:///Users/eydisagusts/.pub-cache/hosted/pub.dev/frontend_server_client-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "glob",
@@ -290,7 +290,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-02-20T12:17:13.547801Z",
+  "generated": "2024-03-27T11:25:59.436598Z",
   "generator": "pub",
   "generatorVersion": "3.2.6"
 }
